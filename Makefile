@@ -1,4 +1,4 @@
-VERSION := 2.3.6
+VERSION := 2.3.10
 TAG := allgreed/nix:$(VERSION)
 
 container: 
